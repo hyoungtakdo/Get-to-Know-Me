@@ -1,5 +1,5 @@
-# Get-to-Know-Me
-# Tak Do – Data Visualization Student
+# Get to Know Me
+## Tak Do Data Visualization Student
 
 Hi my name is Tak and I am a senior in the **Data Visualization program** at the University of Washington Bothell, graduating in **Spring 2026** with a B.S. in Data Visualization. My work focuses on transforming complex datasets into clear, interactive, and visually compelling stories using tools such as **R**, **Tableau**, and **SQL**.  
 
