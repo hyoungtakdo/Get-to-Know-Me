@@ -4,3 +4,5 @@
 Hi my name is Tak and I am a senior in the **Data Visualization program** at the University of Washington Bothell, graduating in **Spring 2026** with a B.S. in Data Visualization. My work focuses on transforming complex datasets into clear, interactive, and visually compelling stories using tools such as **R**, **Tableau**, and **SQL**.  
 
 I have experience designing interactive dashboards for projects ranging from **civic data** to **social impact initiatives**, emphasizing **accessibility**, **usability**, and **analytical rigor**. My interest in data analytics and visualization started from my love for baseball and the statistics of the sport and it has shaped me into who I am today.  
+
+![Data Visualization Banner](https://images.unsplash.com/photo-1583841609634-ce903c6c1a49?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
